@@ -118,4 +118,5 @@ window.onload=function() {
             grad1.addColorStop(0.8, '#c77108');
             zim.fillStyle = grad1;
             zim.fillRect(0,700, 1000, 800);
+            
 }
